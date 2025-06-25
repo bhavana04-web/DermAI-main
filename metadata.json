@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.10","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-03-29T04:05:14.975Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["bkl_Benign keratosis","akiec_Actinic keratoses","mel_Melanoma","bcc_Basal cell carcinoma","vasc_Vascular skin lesions","df_Dermatofibroma"],"imageSize":224}

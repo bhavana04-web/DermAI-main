@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F3F4F6;
+  overflow: hidden; 
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+}
+
+body {
+  overflow-y: auto;
+}
