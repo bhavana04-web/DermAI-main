@@ -46,7 +46,8 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Skin-Lesion-Detection">
+
       <AppContent />
       <ToastContainer position="top-right" autoClose={3000} />
     </Router>
